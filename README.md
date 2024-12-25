@@ -4,10 +4,10 @@ This repository hosts a Jupyter Notebook that provides an in-depth analysis and 
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Results](#results)
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Usage](#usage)
+- [Results](#results)
 - [Contributing](#contributing)
 
 ## Overview
